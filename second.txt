@@ -1,6 +1,6 @@
 class second{
 public static void main(String [] args){
-  System.out.println("Hello this is first");
-  System.out.println("Hello second file with first");
+  System.out.println("Hello Sir, My name is Nikita N");
+  System.out.println("This GIT sessions are very good");
 }
 }
